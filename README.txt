@@ -1,5 +1,21 @@
-At Awesome Inc, we celebrate our successes and publicize our failures through the Success Bell and Failure Dashboard.  We recently installed a chalkboard wall to keep track of our Successes internally, and will soon install a Failure Dashboard to do the same of our Failed attempts at going big!  Both of these serve as an inspiration and reminder to push ourselves to Be Excellent (CV#2)!  
+At Awesome Inc, we celebrate our successes and publicize 
+our failures through the Success Bell and Failure Dashboard.  
+We recently installed a chalkboard wall to keep track of our 
+Successes internally, and will soon install a Failure 
+Dashboard to do the same of our Failed attempts at going 
+big!  Both of these serve as an inspiration and reminder to 
+push ourselves to Be Excellent (CV#2)!  
 
-We would like to create two separate landing pages that display our successes/failures so that we can track them and access them remotely for inspiration purposes.
+We would like to create two separate landing pages that 
+display our successes/failures so that we can track them 
+and access them remotely for inspiration purposes.
 
-For your FIO task, you need create these two landing pages that can be easily updated using an embedded Google Doc spreadsheet.  Melanie Stoeckle (Team Alpha Graphic Design) can supply you with the necessary graphics for the Success Bell and Awesome Inc Logo.  Cody James (Team Alpha Graphic Design) can supply you with the graphic for the Failure Dashboard.  Huu Nguyen (Team Alpha Coding) can help you set up the landing pages on Github or you can choose another platform that you think works best.
+For your FIO task, you need create these two landing pages 
+that can be easily updated using an embedded Google Doc 
+spreadsheet.  Melanie Stoeckle (Team Alpha Graphic 
+Design) can supply you with the necessary graphics for the 
+Success Bell and Awesome Inc Logo.  Cody James (Team 
+Alpha Graphic Design) can supply you with the graphic for 
+the Failure Dashboard.  Huu Nguyen (Team Alpha Coding) 
+can help you set up the landing pages on Github or you can 
+choose another platform that you think works best.
