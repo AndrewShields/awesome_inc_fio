@@ -21,20 +21,20 @@
 	top: -15px;
 	width: 60%;
 }
-.spread_and_bell {
+.spread_and_dash {
 	width: 90%;
-	border: 3px solid #EFEFEF;
 	background-color: black;
+	border: 3px solid #EFEFEF;
 }
 .spreadsheet {
     width: 100%;
     height: 100%;
 }
-.bell {
+.dashboard {
 	width: 100%;
-	height: 65%;
+	height: 47%;
 }
-.bell_quote {
+.dash_quote {
 	font-family: "Lato", sans-serif;
 	font-weight: 300;
 	font-size: 40px;
