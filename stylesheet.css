@@ -14,8 +14,9 @@
 }
 .welcome {
 	position: absolute;
-	font-family: Arial;
-	top: -15px;
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	top: -17px;
 	width: 100%;
 }
 .spread_and_bell {
