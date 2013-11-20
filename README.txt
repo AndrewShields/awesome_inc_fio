@@ -1,5 +1,5 @@
-awesome_inc_fio
-===============
+Andrew Shields
+Awesome Inc: Figure It Out
 
-Landing pages for successes and failures
-yes
+The "Successes" folder contains the HTML & CSS for the Success Bell page.
+The "Failures" folder contains the HTML & CSS for the Failure Dashboard page.
